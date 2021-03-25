@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, Route, Router, Switch } from 'react-router-dom';
 import { createMemoryHistory } from 'history';
-import { render, fireEvent, cleanup } from 'react-testing-library';
+import { render, fireEvent, cleanup } from '@testing-library/react';
 import * as Yup from 'yup';
 
 import Trail from '../src/Trail';
