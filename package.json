@@ -1,6 +1,6 @@
 {
   "name": "react-trail",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Declarative routing for React. This package avoid the Routes value repetition and create Links and URLs, with location param parsing.",
   "main": "./dist/Trail.js",
   "repository": "https://github.com/uciadonis/react-trail.git",
